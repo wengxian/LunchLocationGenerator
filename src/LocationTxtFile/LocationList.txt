@@ -1,0 +1,7 @@
+Sheng Siong:Yes:No:X KM:10
+Hong Lim:No:No:X KM:10
+Central:No:Yes:X KM:10
+ChinaTown Point:No:Yes:X KM:10
+ChinaTown Square:No:Yes:X KM:10
+Thai Food:Yes:Yes:X KM:10
+OG:No:No:x KM:10
